@@ -1,2 +1,2 @@
 # Sistemas-Distribuidos
-Exercício para entrega
+Um exercíco de teste de uma Calculadora em RMI
